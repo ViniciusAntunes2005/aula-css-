@@ -1,0 +1,61 @@
+.pai {
+    background-color: rgb(226, 210, 210);
+    width: 800px;
+    height: 250px;
+    border: solid 2px black;
+    margin: 10px;
+}
+
+.caixa {
+    background-color: rgb(192, 231, 17);
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+.titulo {
+    font-family: cursive;
+}
+
+.cor-padrao {
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+}
+
+.frase {
+    color: white;
+    font-size: 50px;
+    margin: 10px;
+}
+
+
+
+.pai2 {
+    background-color: rgb(173, 255, 153);
+    width: 800px;
+    height: 250px;
+    border: solid 2px black;
+    margin: 10px;
+}
+
+.caixa2 {
+    background-color: rgb(18, 109, 109);
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+.titulo2 {
+    font-family: monospace;
+}
+
+.cor-padrao2 {
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+}
+
+.frase2 {
+    color: black;
+    font-size: 50px;
+    margin: 10px;
+}
